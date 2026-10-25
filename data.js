@@ -25,8 +25,3 @@ const gejala = {
   G8: { nama: "Menyebabkan kelelahan yang ekstrem" },
   G9: { nama: "Suara tinggi melengking saat menarik napas" }
 };
-
-const kasusBaru = {
-  kode: "P04",
-  gejala: [0, 1, 0, 1, 1, 1, 0, 0, 0]
-};
